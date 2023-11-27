@@ -1,0 +1,39 @@
+Uso de la app
+
+Manual de Usuario: Software de Actualización de Precios V2.0
+Descripción General:
+Este software está diseñado para facilitar la actualización y comparación de precios de productos en diferentes supermercados. Permite extraer precios, editarlos, y almacenarlos en una base de datos para su posterior análisis.
+
+Funciones Principales:
+Comenzar Scraping:
+
+Descripción: Inicia el proceso de extracción de precios de los productos desde sitios web específicos.
+Cómo usar: Haga clic en el botón "Comenzar Scraping". Se abrirá una nueva ventana para cada producto, donde deberá ingresar manualmente el precio observado.
+Confirmar Ingreso de Precios Actualizados:
+
+Descripción: Inserta los precios actualizados en la base de datos.
+Cómo usar: Después de recopilar los precios actualizados, haga clic en "Confirmar Ingreso Precios Actualizados" para guardar los datos en la base de datos.
+Borrar todos los Datos Actualizados:
+
+Descripción: Elimina todos los precios actualizados que aún no se han guardado en la base de datos.
+Cómo usar: Haga clic en "Borrar todo los Datos Actualizados" para limpiar los precios actualizados de la sesión actual.
+Refrescar Datos:
+
+Descripción: Reinicia la aplicación, actualizando los datos y limpiando cualquier dato no guardado.
+Cómo usar: Haga clic en "Refrescar Datos" para reiniciar la aplicación.
+Editar Precio Actualizado:
+
+Descripción: Permite editar manualmente un precio ya actualizado.
+Cómo usar: Haga clic derecho en la fila del producto cuyo precio desea editar y seleccione "Editar Precio Actualizado". Ingrese el nuevo precio en el cuadro de diálogo que aparece.
+Borrar Precio Actualizado:
+
+Descripción: Elimina un precio actualizado específico de un producto.
+Cómo usar: Haga clic derecho en la fila del producto y seleccione "Borrar Precio Actualizado".
+Operación Básica:
+Al iniciar la aplicación, se muestra una tabla con los productos y precios actuales.
+Puede comenzar el proceso de scraping para actualizar los precios.
+Una vez recopilados los precios, puede editarlos o borrarlos antes de confirmar su inserción en la base de datos.
+Notas Adicionales:
+La aplicación incluye manejo de errores para alertar sobre problemas durante la ejecución.
+Se incluyen mensajes de confirmación y advertencia para evitar la pérdida accidental de datos.
+Este manual proporciona una guía básica para las funciones principales del programa. Para un uso más detallado, se recomienda familiarizarse con la interfaz y las opciones disponibles durante la operación del programa.
